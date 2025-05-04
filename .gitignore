@@ -1,0 +1,9 @@
+**.cursor/*
+**/.terraform/*
+**.terraform.lock.hcl
+**.tfplan
+**.tfstate
+**.tfstate.*
+**.terraform.tfstate.lock.info
+**.DS_Store
+tfplan
